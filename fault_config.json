@@ -1,0 +1,6 @@
+{
+  "enabled": true,
+  "targetUsers": ["kensuo"],
+  "targetBundles": ["AiChatAssistant"],
+  "probability": 0.1
+}
